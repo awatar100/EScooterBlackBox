@@ -1,0 +1,2 @@
+This project shall be data recorder for electrical scooter and other small personal devices. All data accusation is done to micro SD card. Main core is ESP32-cam module and 3 I2C sensors that gather information about magnetic fields, acceleration, angle, temperature and 4x voltage. 
+Written in Arduino IDE. Current consumption in average is 23mA at 3,3V so it can be powered for long time by small lipo.
